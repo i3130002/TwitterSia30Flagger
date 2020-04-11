@@ -4,3 +4,4 @@ __pycache__/Config.cpython-37.pyc
 .ipynb_checkpoints/Jupyter Notebook-checkpoint.ipynb
 .vscode/settings.json
 __pycache__/
+*.zip
